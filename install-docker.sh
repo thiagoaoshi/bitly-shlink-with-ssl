@@ -38,6 +38,3 @@ docker-compose --version
 
 echo "Docker and Docker Compose installation completed successfully."
 echo "Please log out and log back in to use Docker without sudo."
-
-echo "Installing Nginx.. for using it as a service on 80"
-sudo apt install -y nginx
